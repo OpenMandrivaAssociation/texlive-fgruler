@@ -1,6 +1,6 @@
 Name:		texlive-fgruler
 Version:	63721
-Release:	1
+Release:	2
 Summary:	Draw rulers on the foreground or in the text
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fgruler
