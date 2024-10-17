@@ -3,7 +3,7 @@ Version:	70917
 Release:	1
 Summary:	Draw rulers on the foreground or in the text
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fgruler
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/fgruler
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fgruler.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fgruler.doc.r%{version}.tar.xz
